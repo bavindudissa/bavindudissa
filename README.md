@@ -1,3 +1,1 @@
-<center>
-  Undergraduate | Entrepreneur | Founder of Muessoze Solution
-  </center>
+                     Undergraduate | Software Engineer | Entrepreneur | Founder of Muessoze Solution
